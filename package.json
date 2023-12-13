@@ -39,7 +39,6 @@
     "spotify-uri": "^4.0.0",
     "sqlite3": "^5.1.6",
     "tesseract.js": "^5.0.2",
-    "y2mate-api": "^1.2.2",
     "ytdl-core": "^4.11.5"
   }
 }
